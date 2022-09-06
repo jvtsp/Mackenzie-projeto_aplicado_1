@@ -4,3 +4,7 @@ Esse projeto tem como foto a análise dos candidatos a presidência, durante as 
 2. Análise de sentimentos desses tweets.
 3. Série temporal.
 
+
+Membros: Aline Souza Aprelini,  Amanda de Oliveira Costa, João Vitor da Silva Pereira e Nil Nix Matos Miranda
+
+
