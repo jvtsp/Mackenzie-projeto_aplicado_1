@@ -9,6 +9,6 @@ Esse projeto tem como foco a análise dos candidatos a presidência durante as e
 5. Áreas de calor com o mapa do Brasil.  
 
 
-Membros: Aline Souza Aprelini,  Amanda de Oliveira Costa, João Vitor da Silva Pereira e Nil Nix Matos Miranda
+Membros: Aline Souza Aprelini,  Amanda de Oliveira Costa, João Vitor da Silva Pereira e Nil Nix Martos Miranda
 
 
