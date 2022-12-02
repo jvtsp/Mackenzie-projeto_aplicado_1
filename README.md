@@ -11,4 +11,4 @@ Esse projeto tem como foco a análise dos candidatos a presidência durante as e
 
 Membros: Aline Souza Aprelini,  Amanda de Oliveira Costa, João Vitor da Silva Pereira e Nil Nix Martos Miranda
 
-
+Link para apresentação do projeto: https://youtu.be/5XXkpXBTCS4
